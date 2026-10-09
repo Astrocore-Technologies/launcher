@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.artifacts/
+.keys/
+releases/
+*.private.pem
+launcher.settings.json
+.vs/

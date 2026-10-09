@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Launcher.Core/Launcher.Core.csproj" />
+  <Project Path="src/Launcher.App/Launcher.App.csproj" />
+  <Project Path="tools/ReleaseTool/ReleaseTool.csproj" />
+  <Project Path="tests/Launcher.Tests/Launcher.Tests.csproj" />
+</Solution>
